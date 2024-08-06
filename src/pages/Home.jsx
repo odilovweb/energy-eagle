@@ -1,5 +1,4 @@
 import React from "react";
-import { FaBasketShopping } from "react-icons/fa6";
 
 function Home() {
   return (
