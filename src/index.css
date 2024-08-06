@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 .body {
-  font-family: "Oswald", sans-serif;
+  /* font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
   animation: pulse; /* referring directly to the animation's @keyframe declaration */
-  animation-duration: 1s;
+  /* animation-duration: 1s; */
 }
